@@ -4,7 +4,7 @@
 // Handle encryption action
 void encryption(char text[], int key)
 {
-    for (int i = 0; i < text[i] != '\0'; i++)
+    for (int i = 0; text[i] != '\0'; i++)
     {
         char ch = text[i];
         if (isupper(ch))
@@ -25,7 +25,7 @@ void encryption(char text[], int key)
 // Handle decryption action
 void decryption(char text[], int key)
 {
-    for (int i = 0; i < text[i] != '\0'; i++)
+    for (int i = 0; text[i] != '\0'; i++)
     {
         char ch = text[i];
         if (isupper(ch))
