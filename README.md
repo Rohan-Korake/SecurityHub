@@ -6,4 +6,3 @@ SecurityHub is a collection of Network and Information Security programs impleme
 This repository is created for academic learning, practical implementation, and future practice.
 
 ## Programs Included
-- Password generator
