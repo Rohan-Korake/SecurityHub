@@ -9,3 +9,4 @@ This repository is created for academic learning, practical implementation, and 
 
 - Password Generator
 - Caesar Cipher Encryption and Decryption
+- Vernam Cipher Encryption and Decryption
